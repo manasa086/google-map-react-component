@@ -1,0 +1,68 @@
+.app{
+  width:1170px;
+  height:670px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.location{
+  width: 1170px;
+  height:151px;
+  background-color: #074770;
+}
+label{
+  color:white;
+}
+.submit{
+  position:relative;
+  top:32px;
+  width:120px;
+  border: 2px solid #72A1BF;
+  border-radius: 20px;
+  text-transform:uppercase;
+  background-color:#72A1BF;
+  color:#074770;
+}
+.left{
+  width:523px;
+  height:518px;
+  border-right: 1px solid grey;
+}
+.right{
+  width:553px;
+  height:518px;
+  /* border-right: 1px solid grey; */
+}
+.padding{
+  padding-left: 70px;
+}
+.padding2{
+  padding-left: 180px;
+}
+.padding1{
+  padding-left: 20px;
+}
+.padding3{
+  padding-left: 30px;
+}
+.route{
+  position: relative;
+  top:-40px;
+  left:60px;
+  width:500px;
+  background-color: #074770;
+  text-align: center;
+  border: 2px solid #074770;
+  border-radius: 20px;
+  text-transform: uppercase;
+  color:white;
+  cursor: pointer;
+}
+.route1{
+  position: relative;
+  top:-40px;
+  left:60px;
+  width:500px;
+}
